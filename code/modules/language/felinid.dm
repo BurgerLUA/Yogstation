@@ -3,7 +3,7 @@
 	desc = "A language devised by felinids to collaborate and hunt more efficiently... well thats what it sounds like in their minds anyway."
 	exclaim_verb = "miaows"
 	key = "f"
-	flags = TONGUELESS_SPEECH
+	flags = TONGUELESS_SPEECH | LANGUAGE_ALLOW_TELECOMMS_CONVERSION
 	space_chance = 90
 	syllables = list(
 		"mhm", "mew", "mia","meow","miaow","mmrrrr"

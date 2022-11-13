@@ -6,6 +6,7 @@
 	ask_verb = "inquires"
 	exclaim_verb = "declares"
 	key = "h"
+	flags = LANGUAGE_ALLOW_TELECOMMS_CONVERSION
 	space_chance = 20
 	sing_verb = "serenades"
 	syllables = list(

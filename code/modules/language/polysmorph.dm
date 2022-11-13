@@ -4,6 +4,7 @@
 	speech_verb = "hisses"
 	ask_verb = "hisses"
 	exclaim_verb = "hisses"
+	flags = LANGUAGE_ALLOW_TELECOMMS_CONVERSION
 	key = "x"
 	syllables = list("sss","sSs","SSS")
 	default_priority = 50

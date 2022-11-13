@@ -5,7 +5,7 @@
 	ask_verb = "pops"
 	exclaim_verb = "jolts"
 	key = "3"
-	flags = TONGUELESS_SPEECH
+	flags = TONGUELESS_SPEECH | LANGUAGE_ALLOW_TELECOMMS_CONVERSION
 	space_chance = 70
 	syllables = list(
 		"zap", "pop", "zzzz", "bzzzz", "tzzt", "hmmmm", "mmmm", "dzzzt", "ohmm", "zpp"

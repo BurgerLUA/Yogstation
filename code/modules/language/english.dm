@@ -5,7 +5,7 @@
 	ask_verb = "asks"
 	exclaim_verb = "exclaims"
 	key = "g"
-	flags = TONGUELESS_SPEECH
+	flags = TONGUELESS_SPEECH | LANGUAGE_ALLOW_TELECOMMS_CONVERSION
 	space_chance = 100
 	default_priority = 90
 	syllables = list(

@@ -5,7 +5,7 @@
 	ask_verb = "chirps"
 	exclaim_verb = "buzzes loudly"
 	key = "2"
-	flags = TONGUELESS_SPEECH
+	flags = TONGUELESS_SPEECH | LANGUAGE_ALLOW_TELECOMMS_CONVERSION
 	space_chance = 100
 	syllables = list(
 		"bzz", "zzzt", "zzt", "zt", "clck", "tzip", "dzt", "dzzzt"
