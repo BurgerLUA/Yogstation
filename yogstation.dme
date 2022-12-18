@@ -3388,6 +3388,7 @@
 #include "yogstation\code\controllers\subsystem\yogs.dm"
 #include "yogstation\code\controllers\subsystem\processing\quirks.dm"
 #include "yogstation\code\datums\action.dm"
+#include "yogstation\code\datums\ai_laws.dm"
 #include "yogstation\code\datums\mind.dm"
 #include "yogstation\code\datums\mutations.dm"
 #include "yogstation\code\datums\shuttles.dm"
